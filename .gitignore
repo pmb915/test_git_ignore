@@ -1,3 +1,7 @@
 new-file.txt
 
 bin/
+
+# ignore all .tmp file
+
+*.tmp
